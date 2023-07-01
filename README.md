@@ -1,2 +1,2 @@
 # Kingpin-Duplicator
-will fill later
+kingpin lua code without any restrictions
