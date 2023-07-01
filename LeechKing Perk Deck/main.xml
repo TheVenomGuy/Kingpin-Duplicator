@@ -1,0 +1,5 @@
+<mod name="King Leech Perk Deck">
+	<AddFiles directory="Assets">
+		<texture path="guis/dlcs/leech_king_perk_deck/textures/pd2/specialization/icons_atlas" force="true"/>
+	</AddFiles>
+</mod>
